@@ -1,1 +1,1 @@
-{"versionCode": 23, "versionName": "3.5.3", "apkUrl": "https://github.com/channel-plus-tv/channel-plus-tv/releases/download/v3.4.0-test/app-debug.apk", "notes": "Versión 3.5.3: nuevo menú de TV en vivo con categorías y filas estilo Stella."}
+{"versionCode": 24, "versionName": "3.5.4", "apkUrl": "https://github.com/channel-plus-tv/channel-plus-tv/releases/download/v3.4.0-test/app-debug.apk", "notes": "Versión 3.5.4: actualizador dentro de la app corregido (descarga directa con progreso real y reintento) y nueva intro en 4K."}
