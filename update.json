@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "3.5.11",
+  "versionCode": 32,
+  "versionName": "3.5.12",
   "apkUrl": "https://github.com/channel-plus-tv/channel-plus-tv/releases/download/v3.4.0-test/app-debug.apk",
-  "notes": "Corazón de favorito en el reproductor: mientras ves un canal, toca el corazón arriba a la derecha para agregarlo o quitarlo de favoritos, sin salir del canal."
+  "notes": "Versión de prueba estilo Stella: En Vivo con 4 vistas (Lista, Favoritos, Reservados, Recientes), programación Ahora y Después, reserva de programas con aviso, y búsqueda por número de canal."
 }
