@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "3.5.10",
+  "versionCode": 31,
+  "versionName": "3.5.11",
   "apkUrl": "https://github.com/channel-plus-tv/channel-plus-tv/releases/download/v3.4.0-test/app-debug.apk",
-  "notes": "Audio a volumen completo en el reproductor y en la intro; corazón de favorito siempre visible y tocable en los canales en vivo; en Buscar el foco ya se ve (borde + escala) y el primer resultado queda enfocado."
+  "notes": "Corazón de favorito en el reproductor: mientras ves un canal, toca el corazón arriba a la derecha para agregarlo o quitarlo de favoritos, sin salir del canal."
 }
