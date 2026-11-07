@@ -1,1 +1,6 @@
-{"versionCode": 29, "versionName": "3.5.9", "apkUrl": "https://github.com/channel-plus-tv/channel-plus-tv/releases/download/v3.4.0-test/app-debug.apk", "notes": "Versión 3.5.9: menú EN VIVO como la opción 1 — cuadrícula de categorías grandes primero y dentro de cada categoría la lista compacta de sus canales, con animación al entrar y favoritos con pulsación larga. Se mantiene la presentación animada, el arreglo de que no se salía al tocar un canal, y el botón No en el cuadro de salir."}
+{
+  "versionCode": 30,
+  "versionName": "3.5.10",
+  "apkUrl": "https://github.com/channel-plus-tv/channel-plus-tv/releases/download/v3.4.0-test/app-debug.apk",
+  "notes": "Audio a volumen completo en el reproductor y en la intro; corazón de favorito siempre visible y tocable en los canales en vivo; en Buscar el foco ya se ve (borde + escala) y el primer resultado queda enfocado."
+}
