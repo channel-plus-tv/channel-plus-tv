@@ -1,0 +1,6 @@
+{
+  "versionCode": 33,
+  "versionName": "3.5.13-prueba",
+  "apkUrl": "https://github.com/channel-plus-tv/channel-plus-tv/releases/download/v3.5.13-test/app-debug.apk",
+  "notes": "Versión de pruebas lado a lado (En Vivo estilo Stella con mini-pantalla y menú vertical). Solo para pruebas, no es la versión oficial."
+}
